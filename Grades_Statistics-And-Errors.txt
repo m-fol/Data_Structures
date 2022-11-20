@@ -1,1 +1,4 @@
+Here you can find the statistics of the grades earned in the exercises above. 
+(Note: All grades, regardless of their original spectrum, have been changed to represent a number out of 10)
+
 https://www.notion.so/52a2ffcf25e0443a911be2dc644be4c9?v=77a90cd351164506b65e04b04f0b5aae
